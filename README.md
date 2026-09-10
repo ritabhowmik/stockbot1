@@ -1,3 +1,5 @@
-my personal portfolio website <3
+working on personal portfolio website <3
 
-view @ https://ritasportfolio.vercel.app
+------------------------------------------------------
+
+** in progress **
